@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\CLASES CIBERTEC\CICLO-1\4-INTRO A LA  ALGORITMIA\PROYECTOS\Cibertec\.metadata\.plugins\org.eclipse.jdt.core
+2457825379.index
+567361358.index
+3883950653.index
+263265558.index
