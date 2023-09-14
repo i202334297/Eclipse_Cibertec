@@ -137,7 +137,7 @@ public class Caja extends JFrame implements ActionListener {
 		
 		txtS.setText("el volumen es : " + (volumen));
 		
-		// Probando cambio en git para proyecto cibertec 123
+		// Probando cambio en git para proyecto cibertec
 		
 		
 	}
